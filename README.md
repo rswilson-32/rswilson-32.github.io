@@ -1,6 +1,7 @@
 
-<h3> <strong> <p align = "center"> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </p> </strong> </h3>
-
+<h2> <strong> <img src="me.jpg" height = "200" align = "left" hspace = 12> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </strong> </h2>
+<br>
+<br>
 <h3> <strong> Projects </strong> </h3>
 <ul>
   <li> UCLA ASA Datafest </li>

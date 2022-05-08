@@ -2,11 +2,18 @@
 
 <h3> <strong> Projects </strong> </h3>
 <ul>
-  <li> 2020 Bruin Actuarial Society Case Competition </li>
+  <li> UCLA ASA Datafest </li>
+    <ul style="list-style-type:circle;">
+      <li> Winner of 2022 competition, Don Ylvisaker Best Insight </li>
+      <li> Our team of three was given 40 hours to analyze a complex dataset. We made it through 2 rounds of presentations and surpassed 70 other teams. </li>
+      <li> This experience has strenghened my statistical and coding skills. Will publish findings soon! </li>
+  </ul>
+  
+  <li> Bruin Actuarial Society Case Competitions </li>
     <ul style="list-style-type:circle;">
       <li> Our team of four was given one week to manage the liability and insurance policies for a fictitious insurance company. </li>
       <li> We then presented our findings from various models to a panel of officers. </li>
-      <li> While the competition was challenging, we gained valuable experience in data cleaning, model testing, financial management and product communication. I plan on competing again this January! <br> <a href="2020bascomp.pdf">2021 presentation</a> <br> <a href="2022_Team_16_Slides.pdf">2022 presentation</a> </li>
+      <li> I have competed in two case competitions so far: <br> <a href="2020bascomp.pdf">2021 presentation</a> <br> <a href="2022_Team_16_Slides.pdf">2022 presentation</a> </li>
   </ul>
 </ul>
 

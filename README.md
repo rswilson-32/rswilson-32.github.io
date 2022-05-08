@@ -7,6 +7,7 @@
       <li> Winner of 2022 competition, Don Ylvisaker Award for Best Insight </li>
       <li> Our team (the Data Dudes) was given 40 hours to analyze a complex dataset. We made it through 2 rounds of presentations and surpassed 70 other teams. </li>
       <li> This experience has strenghened my statistical skills and my coding abilities with large data frames. I will publish our findings soon! </li>
+      <img src = "bruin.jpg" height = "100" /> <img src = "win.jpg" width = "200" />
   </ul>
   <br>
   <li> Bruin Actuarial Society Case Competitions </li>

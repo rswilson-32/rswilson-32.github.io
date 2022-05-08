@@ -14,8 +14,8 @@
 <ul>
   <li> Juggling </li>
    <ul style="list-style-type:circle;">
-      <li> I have been juggling for roughly two years and am currently a member of the UCLA juggling club. </li>
-      <li> I really enjoy club passing and can juggle five balls and four clubs! <br> <img src = "https://libraryofjuggling.com/JugglingGifs/5balltricks/fiveballcascade.gif" width = "150" height = "150"/> <a href="#footnote-1">[1]</a> </li>
+      <li> I am the president of the UCLA Juggling Club for the 2022 - 2023 school year! </li>
+      <li> I have been juggling for around three years now, and can successfully juggle 5 balls and 4 clubs :) <br> <img src = "https://libraryofjuggling.com/JugglingGifs/5balltricks/fiveballcascade.gif" width = "150" height = "150"/> <a href="#footnote-1">[1]</a> </li>
    </ul>
    <li> Gardening </li>
    <ul style="list-style-type:;">

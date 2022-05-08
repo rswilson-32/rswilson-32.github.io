@@ -1,6 +1,16 @@
 
 <h2> <strong> <img src="me.jpg" height = "200" align = "left" hspace = 12> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </strong> </h2>
 <br>
+<h3> <strong> Some Links </strong> <img src = "https://www.pngitem.com/pimgs/m/214-2149012_concept-art-ocarina-of-time-link-hd-png.png" height = "40" /> </h3>
+<a href='https://www.linkedin.com/in/roger-wilson-679225223/'>
+  <img src='ll.png' height = "40" />
+</a>
+<a href='https://github.com/rswilson-32'>
+  <img src='github.png' height = "40" />
+</a>
+<a href='https://open.spotify.com/user/4zli6lmw3kzxws2z0uibyhbur?si=B4KmzxcXQA-Lj0HgpWuAAw'>
+  <img src='spotify.png' height = "40" />
+</a>
 <br>
 <h3> <strong> Projects </strong> </h3>
 <ul>
@@ -39,10 +49,4 @@
   </ul>
 </ul>
    
-<h3> <strong> Links </strong> <img src = "https://www.pngitem.com/pimgs/m/214-2149012_concept-art-ocarina-of-time-link-hd-png.png" width = "35" /> </h3>
-<a href="https://www.linkedin.com/in/roger-wilson-679225223/">LinkedIn</a> <br>
-<a href="https://github.com/rswilson-32">GitHub</a> <br>
-<a href="https://open.spotify.com/user/4zli6lmw3kzxws2z0uibyhbur?si=B4KmzxcXQA-Lj0HgpWuAAw">Spotify</a>
-
-
 <p id="footnote-1">[1] From the <a href="https://libraryofjuggling.com/">Library of Juggling Homepage </a> </p>

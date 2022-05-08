@@ -4,11 +4,11 @@
 <ul>
   <li> UCLA ASA Datafest </li>
     <ul style="list-style-type:circle;">
-      <li> Winner of 2022 competition, Don Ylvisaker Best Insight </li>
-      <li> Our team of three was given 40 hours to analyze a complex dataset. We made it through 2 rounds of presentations and surpassed 70 other teams. </li>
-      <li> This experience has strenghened my statistical and coding skills. Will publish findings soon! </li>
+      <li> Winner of 2022 competition, Don Ylvisaker Award for Best Insight </li>
+      <li> Our team (the Data Dudes) was given 40 hours to analyze a complex dataset. We made it through 2 rounds of presentations and surpassed 70 other teams. </li>
+      <li> This experience has strenghened my statistical skills and my coding abilities with large data frames. I will publish our findings soon! </li>
   </ul>
-  
+  <br>
   <li> Bruin Actuarial Society Case Competitions </li>
     <ul style="list-style-type:circle;">
       <li> Our team of four was given one week to manage the liability and insurance policies for a fictitious insurance company. </li>

@@ -31,7 +31,8 @@
    
 <h3> <strong> Links </strong> <img src = "https://www.pngitem.com/pimgs/m/214-2149012_concept-art-ocarina-of-time-link-hd-png.png" width = "35" /> </h3>
 <a href="https://www.linkedin.com/in/roger-wilson-679225223/">LinkedIn</a> <br>
-<a href="https://github.com/rswilson-32">GitHub</a> 
+<a href="https://github.com/rswilson-32">GitHub</a> <br>
+<a href="https://open.spotify.com/user/4zli6lmw3kzxws2z0uibyhbur?si=B4KmzxcXQA-Lj0HgpWuAAw">Spotify</a>
 
 
 <p id="footnote-1">[1] From the <a href="https://libraryofjuggling.com/">Library of Juggling Homepage </a> </p>

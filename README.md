@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+---
+
+<body class="theme-base-08">
 
 <h3> <strong> <p align = "center"> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </p> </strong> </h3>
 
@@ -45,3 +51,5 @@
 
 
 <p id="footnote-1">[1] From the <a href="https://libraryofjuggling.com/">Library of Juggling Homepage </a> </p>
+
+</body>

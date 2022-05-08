@@ -1,7 +1,7 @@
 
 <h2> <strong> <img src="me.jpg" height = "200" align = "left" hspace = 12> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </strong> </h2>
 
-<a href = 'www.linkedin.com/in/roger-wilson32'>
+<a href = 'https://www.linkedin.com/in/roger-wilson-679225223/'>
   <img src='ll.png' height = "40" />
 </a>
 <a href='https://github.com/rswilson-32'>

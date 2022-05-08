@@ -4,11 +4,9 @@
 <a href = 'www.linkedin.com/in/roger-wilson32'>
   <img src='ll.png' height = "40" />
 </a>
-
 <a href='https://github.com/rswilson-32'>
   <img src='github.png' height = "40" />
 </a>
-
 <a href='https://open.spotify.com/user/4zli6lmw3kzxws2z0uibyhbur?si=B4KmzxcXQA-Lj0HgpWuAAw'>
   <img src='spotify.png' height = "40" />
 </a>

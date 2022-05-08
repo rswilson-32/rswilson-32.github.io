@@ -1,6 +1,7 @@
-<h3> <strong> <p align = "center"> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </p> </strong> </h3>
+<a class="rswilson-32.github.io" href="{{ site.baseurl }}/">
+        <img src="me.jpg" class="site-logo" width="150" height="auto">
 
-<img src = "me.jpg" height = "300" />
+<h3> <strong> <p align = "center"> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </p> </strong> </h3>
 
 <h3> <strong> Projects </strong> </h3>
 <ul>

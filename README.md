@@ -42,12 +42,12 @@
       <li> At home, I maintain a vegetable garden. I especially love growing zucchini, tomatoes, and carrots :) </li>
       <li> I am treasurer of UCLA DIG for the 2022-2023 academic year! </li>
       <li><a href =  "http://digucla.weebly.com/"> DIG UCLA homepage </a> </li>
-      <li> <img src = "garden.jpg" width = "248" /> </li>
+      <li> <img src = "garden.jpg" height = "150" /> <img src = "dig.jpg" height = "150" </li>
    </ul>
   <li> Swimming </li>
     <ul style="list-style-type:circle;">
       <li> I was a varsity swimmer and team captain in high school. </li>
-      <li> I still love swimming for exercise in college and my favorite stroke is breaststroke. <br> <img src = "swim.jpg" width = "250" /> </li>
+      <li> I still love swimming for exercise in college and my favorite stroke is breaststroke. <br> <img src = "swim.jpg" height = "150" /> </li>
   </ul>
 </ul>
    

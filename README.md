@@ -42,7 +42,7 @@
       <li> At home, I maintain a vegetable garden. I especially love growing zucchini, tomatoes, and carrots :) </li>
       <li> I am treasurer of UCLA DIG for the 2022-2023 academic year! </li>
       <li><a href =  "http://digucla.weebly.com/"> DIG UCLA homepage </a> </li>
-      <li> <img src = "garden.jpg" height = "200" /> <img src = "dig.jpg" height = "200" </li>
+      <li> <img src = "garden.jpg" height = "200" /> <img src = "dig.jpg" height = "200"/> </li>
    </ul>
   <li> Swimming </li>
     <ul style="list-style-type:circle;">

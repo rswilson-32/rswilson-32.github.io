@@ -1,7 +1,7 @@
 
 <h2> <strong> <img src="me.jpg" height = "200" align = "left" hspace = 12> Hello I'm Roger Wilson! I am a second year UCLA student exploring the converging worlds of statistics, mathematics, and computer science. This site will house my hobbies, projects and more. Welcome! </strong> </h2>
 
-<a href = 'www.linkedin.com/in/roger-wilson32'>
+<a href = 'https://www.linkedin.com/in/roger-wilson-679225223/'>
   <img src='ll.png' height = "40" />
 </a>
 <a href='https://github.com/rswilson-32'>
@@ -39,8 +39,10 @@
    </ul>
    <li> Gardening </li>
    <ul style="list-style-type:;">
-      <li> At home, I maintain a vegetable garden. </li>
-      <li> Now that I am at UCLA, I have joined the DIG garden club! <br> <img src = "garden.jpg" width = "248" /> </li>
+      <li> At home, I maintain a vegetable garden. I especially love growing zucchini, tomatoes, and carrots :) </li>
+      <li> I am treasurer of UCLA DIG for the 2022-2023 academic year! </li>
+      <li><a href =  "http://digucla.weebly.com/"> DIG UCLA homepage </a> </li>
+      <li> <img src = "garden.jpg" width = "248" /> </li>
    </ul>
   <li> Swimming </li>
     <ul style="list-style-type:circle;">

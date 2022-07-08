@@ -7,10 +7,8 @@
 <a href='https://github.com/rswilson-32'>
   <img src='github.png' height = "40" />
 </a>
-<a href='https://open.spotify.com/user/4zli6lmw3kzxws2z0uibyhbur?si=B4KmzxcXQA-Lj0HgpWuAAw'>
-  <img src='spotify.png' height = "40" />
-</a>
-
+<br>
+<br>
 <br>
 <h3> <strong> Projects </strong> </h3>
 <ul>
@@ -25,8 +23,7 @@
   <li> Bruin Actuarial Society Case Competitions </li>
     <ul style="list-style-type:circle;">
       <li> Our team of four was given one week to manage the liability and insurance policies for a fictitious insurance company. </li>
-      <li> We then presented our findings from various models to a panel of officers. </li>
-      <li> I have competed in two case competitions so far: <br> <a href="2020bascomp.pdf">2021 presentation</a> <br> <a href="2022_Team_16_Slides.pdf">2022 presentation</a> </li>
+      <li> We then presented our findings from various models to a panel of officers. So far, I have competed in two case competitions. </li>
   </ul>
 </ul>
 
@@ -39,7 +36,7 @@
    </ul>
    <li> Gardening </li>
    <ul style="list-style-type:;">
-      <li> At home, I maintain a vegetable garden. I especially love growing zucchini, tomatoes, and carrots :) </li>
+      <li> At home, I maintain a vegetable garden. I especially love growing zucchini, tomatoes, and carrots </li>
       <li> I am treasurer of UCLA DIG for the 2022-2023 academic year! </li>
       <li><a href =  "http://digucla.weebly.com/"> DIG UCLA homepage </a> </li>
       <li> <img src = "garden.jpg" height = "200" /> <img src = "dig.jpg" height = "200"/> </li>

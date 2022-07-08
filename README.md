@@ -9,14 +9,13 @@
 </a>
 <br>
 <br>
-<br>
 <h3> <strong> Projects </strong> </h3>
 <ul>
   <li> UCLA ASA Datafest </li>
     <ul style="list-style-type:circle;">
       <li> Winner of 2022 competition, Don Ylvisaker Award for Best Insight </li>
       <li> Our team (the Data Dudes) was given 40 hours to analyze a complex dataset. We made it through 2 rounds of presentations and surpassed 70 other teams. </li>
-      <li> This experience has strenghened my statistical skills and my coding abilities with large data frames. I will publish our findings soon! </li>
+      <li> This experience has strenghened my statistical skills and my coding abilities with extensive amounts of data! </li>
       <img src = "bruin.jpeg" height = "200" /> <img src = "win.jpg" height = "200" />
   </ul>
   <br>
